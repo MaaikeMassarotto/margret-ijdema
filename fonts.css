@@ -1,0 +1,37 @@
+@charset 'UTF-8';
+
+@font-face {
+	font-family: 'open-sans-light';
+	font-weight: 300;
+	font-display: swap;
+	src: url('/assets/fonts/open-sans/open-sans-light.woff2') format('woff2'),
+	     url('/assets/fonts/open-sans/open-sans-light.woff') format('woff');
+}
+@font-face {
+	font-family: 'open-sans-semibold';
+	font-weight: 600;
+	font-display: swap;
+	src: url('/assets/fonts/open-sans/open-sans-semibold.woff2') format('woff2'),
+	     url('/assets/fonts/open-sans/open-sans-semibold.woff') format('woff');
+}
+@font-face {
+	font-family: 'open-sans';
+	font-weight: 400;
+	font-display: swap;
+	src: url('/assets/fonts/open-sans/open-sans-regular.woff2') format('woff2'),
+	     url('/assets/fonts/open-sans/open-sans-regular.woff') format('woff');
+}
+@font-face {
+	font-family: 'open-sans-regular';
+	font-weight: 400;
+	font-display: swap;
+	src: url('/assets/fonts/open-sans/open-sans-regular.woff2') format('woff2'),
+	     url('/assets/fonts/open-sans/open-sans-regular.woff') format('woff');
+}
+@font-face {
+	font-family: 'roboto-medium';
+	font-weight: 500;
+	font-display: swap;
+	src: url('/assets/fonts/roboto/roboto-medium.woff2') format('woff2'),
+	     url('/assets/fonts/roboto/roboto-medium.woff') format('woff');
+}
